@@ -1,0 +1,4 @@
+Hi,
+Welcome to Ready Admin Starter Laravel Kit.
+
+It's a Ready Kit to use for your Application. You can use you want.

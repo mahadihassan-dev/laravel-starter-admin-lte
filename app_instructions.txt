@@ -1,0 +1,10 @@
+How To use this Admin Kit
+
+To use this kit Download this kit First
+
+1. Download the ZIP file from Github
+2. Create DB into your MySQL Database System through your "phpmyadmin". Here you will get "admin_lte.sql" Import it If you're using Live Server. 
+3. Now Edit your "Env" to add your DB name, DB User Name(If you are using Live Server. If you are Using Local Server with Xampp you don't have to use it) and DB Password(If you are using Live Server. If you are Using Local Server with Xampp you don't have to use it).
+4. Now Open CMD/CLI to run Command hit the CMD "php artisan serve"
+
+Cool Now you are Ready to Play
